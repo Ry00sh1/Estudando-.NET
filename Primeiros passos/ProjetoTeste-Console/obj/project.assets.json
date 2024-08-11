@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\files\\ProjetoTeste-Console.csproj",
+      "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\ProjetoTeste-Console.csproj",
       "projectName": "ProjetoTeste-Console",
-      "projectPath": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\files\\ProjetoTeste-Console.csproj",
+      "projectPath": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\ProjetoTeste-Console.csproj",
       "packagesPath": "C:\\Users\\Estudos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\files\\obj\\",
+      "outputPath": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Estudos\\AppData\\Roaming\\NuGet\\NuGet.Config"
