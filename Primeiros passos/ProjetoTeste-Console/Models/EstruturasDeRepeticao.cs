@@ -7,37 +7,48 @@ namespace ProjetoTeste_Console.Models
 {
     public class EstruturasDeRepeticao
     {
-        Console.WriteLine("/*Estruturas de Repetição*/");
-
-        for (int i = 1; i <= 5; i++)
+        public void LoopFor(int n) //imprime números de 1 a n
         {
-            Console.WriteLine(i);
+            for (int i = 1; i <= n; i++)
+            {
+                Console.WriteLine(i);
+            }
+       
         }
-        Console.WriteLine("\n");
-
-        int j = 1;
-        while (j <= 5)
+        public void LoopWhile() //usuário deve descobrir um número aleatório enre 1 e 100
         {
-            Console.WriteLine(j);
-            j++; // Incrementa a variável de controle
+            Random random = new Random();
+            int i = random.Next(101);
+            Console.WriteLine("Descubra o número de 1 a 100: ");
+            int n = Convert.ToInt32((Console.ReadLine()));
+
+            while (i != n)
+            {
+                Console.WriteLine("Errou! Tente novamente!");
+                n = Convert.ToInt32((Console.ReadLine()));
+            }
+            Console.WriteLine($"Correto! O número era {i}!");
         }
-        Console.WriteLine("\n");
+        
 
-        // Imprime números de 1 a 5
-        do
-        {
-            Console.WriteLine(j);
-            j++; // Incrementa a variável de controle
-        } while (j <= 5);
-
-        Console.WriteLine("\n");
-        int[] numeros = { 1, 2, 3, 4, 5 };
-
-        // Imprime todos os números no array
-        foreach (int numero in numeros)
-        {
-            Console.WriteLine(numero);
+        
+        public void LoopDoWhile(int n) //imprime números de n a 1
+        {   
+            do
+            {
+                Console.WriteLine(n);
+                n--;
+            } while (n != 1);
         }
-        Console.WriteLine("\n");
+        public void LoopForeach(Array n)//imprime todos os números no array fornecido 
+        {
+            foreach (int numero in n)
+            {
+                Console.WriteLine(numero);
+            }
+        }
+
+        
+        
     }
 }
