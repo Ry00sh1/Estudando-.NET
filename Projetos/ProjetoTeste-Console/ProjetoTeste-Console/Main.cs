@@ -8,7 +8,7 @@ namespace Main
         static void Main(string[] args)
         {
 
-            Console.WriteLine("----------MENU----------");
+            /*Console.WriteLine("----------MENU----------");
 
 
             Pessoa p = new Pessoa();
@@ -25,8 +25,20 @@ namespace Main
             int ano = Convert.ToInt32(Console.ReadLine());
             p.DTN.DefineDataDeNascimento(dia,mes,ano);
             
-            p.Apresentar();
+            p.Apresentar();*/
 
+            Arrays arr = new Arrays();
+
+            arr.ImprimeArrayDeNomes();
+            Console.WriteLine(arr.ToString());
+            arr.RedimencionarArray();
+          
+            Listas lista = new Listas();
+
+            lista.ImprimeListaDeNomes();
+            Console.WriteLine(lista.ListaToString());
+
+            
         }
     }
 }

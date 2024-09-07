@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\ProjetoTeste-Console.Common.csproj": {}
+    "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Projetos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\ProjetoTeste-Console.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\ProjetoTeste-Console.Common.csproj": {
+    "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Projetos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\ProjetoTeste-Console.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\ProjetoTeste-Console.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Projetos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\ProjetoTeste-Console.Common.csproj",
         "projectName": "ProjetoTeste-Console.Common",
-        "projectPath": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\ProjetoTeste-Console.Common.csproj",
+        "projectPath": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Projetos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\ProjetoTeste-Console.Common.csproj",
         "packagesPath": "C:\\Users\\Estudos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Primeiros passos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\obj\\",
+        "outputPath": "C:\\Users\\Estudos\\Desktop\\Estudando-.NET\\Projetos\\ProjetoTeste-Console\\ProjetoTeste-Console.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

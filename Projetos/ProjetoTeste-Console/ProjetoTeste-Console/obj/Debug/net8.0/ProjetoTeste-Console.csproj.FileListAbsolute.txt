@@ -61,3 +61,22 @@ C:\Users\Estudos\Desktop\Estudando-.NET\Primeiros passos\ProjetoTeste-Console\Pr
 C:\Users\Estudos\Desktop\Estudando-.NET\Primeiros passos\ProjetoTeste-Console\ProjetoTeste-Console\bin\Debug\net8.0\ProjetoTeste-Console.Common.pdb
 C:\Users\Estudos\Desktop\Estudando-.NET\Primeiros passos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.csproj.AssemblyReference.cache
 C:\Users\Estudos\Desktop\Estudando-.NET\Primeiros passos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoT.984F95A1.Up2Date
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.csproj.AssemblyReference.cache
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.AssemblyInfoInputs.cache
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.AssemblyInfo.cs
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.sourcelink.json
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.dll
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\refint\ProjetoTeste-Console.dll
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.pdb
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\bin\Debug\net8.0\ProjetoTeste-Console.exe
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\bin\Debug\net8.0\ProjetoTeste-Console.deps.json
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\bin\Debug\net8.0\ProjetoTeste-Console.runtimeconfig.json
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\bin\Debug\net8.0\ProjetoTeste-Console.dll
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\bin\Debug\net8.0\ProjetoTeste-Console.pdb
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\bin\Debug\net8.0\ProjetoTeste-Console.Common.dll
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\bin\Debug\net8.0\ProjetoTeste-Console.Common.pdb
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoT.984F95A1.Up2Date
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ProjetoTeste-Console.genruntimeconfig.cache
+C:\Users\Estudos\Desktop\Estudando-.NET\Projetos\ProjetoTeste-Console\ProjetoTeste-Console\obj\Debug\net8.0\ref\ProjetoTeste-Console.dll
