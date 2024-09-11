@@ -10,7 +10,7 @@ namespace ProjetoTeste_Console.Common.Models
     public class Pessoa
     {
         public EstruturaDataDeNascimento DTN = new EstruturaDataDeNascimento();
-        public string? Nome { get; set; }
+        public string Nome { get; set; }
 
         public void Apresentar()
         {
